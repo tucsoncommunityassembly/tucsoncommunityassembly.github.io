@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ i18n "siteTitle" }}</title>
+  <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
+</head>
+<body>
+
+<header>
+  <p class="header-langs">
+    {{ range .Translations }}
+      <a href="{{ .RelPermalink }}">{{ .Lang }}</a>
+    {{ end }}
+  </p>
+  <h1 class="header-title">{{ i18n "siteTitle" }}</h1>
+  <h2 class="header-title">{{ i18n "siteSubtitle" }}</h2>
+  <p></p>
+  
+</header>
+
+<main>
+  {{ block "main" . }}
+  {{ end }}
+</main>
+
+<footer>
+</footer>
+</body>
+</html>

@@ -1,0 +1,20 @@
+baseURL = "https://tucsoncommunityassembly.org"
+languageCode = "en-us"
+theme = "ananke"
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = true
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    title = "ICE OUT!"
+    contentDir = "content/en"
+    weight = 1
+  [languages.es]
+    languageName = "Español"
+    contentDir = "content/es"
+    weight = 2
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
