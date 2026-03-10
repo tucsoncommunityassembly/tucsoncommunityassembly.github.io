@@ -1,14 +1,18 @@
 ---
-title: "ICE OUT! Asamblea Comunitaria de Tucson"
+title: "¡FUERA ICE! Asamblea Comunitaria de Tucson"
 layout: "page"
 ---
 
 ## Próxima asamblea
 
-Sábado 14 Marzo @ 2pm. Menlo Park, 325 N Grande Ave
+14 de marzo. Menlo Park. 325 N Grande Ave.
 
-¿Cómo podemos apoyarnos y defendernos mutuamente en estos momentos tan escalofriantes? ¿Qué vamos a hacer para derribar el aparato de deportaciones? Vamos a juntarnos para platicar sobre las soluciones de estas dilemas y hacer planes concretas. 
+Juntos podemos acabar con la crueldad de las leyes de inmigración. Con esta intención, nos organizamos para defender nuestras comunidades y cuidarnos unos a otros.
 
-Inviten a sus vecinos y seres queridos. Traen sus ideas y sueños o quizás sencillamente la mente abierta. 
+Esta es una reunión participativa con discusiones en grupos pequeños para hacer planes reales juntos.
 
-Interpretación inglés/español. 
+Cualquiera que quiera un mundo libre de opresión y explotación será bienvenido. Traiga a sus seres queridos y sus ideas, grandes o pequeñas. Todos tienen algo que ofrecer. Si no estás seguro, ¡ven!
+
+Cada segundo sabado del mes 2pm-4:30pm
+
+Habrá interpretación español/inglés.
