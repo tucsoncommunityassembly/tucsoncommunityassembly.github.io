@@ -5,7 +5,7 @@ layout: "page"
 
 ## Next assembly
 
-March 14. Menlo Park. 325 N Grande Ave.
+April 11. First Christian Church. 740 E Speedway Blvd.
 
 Together, we can put an end to the cruelty of immigration enforcement. With this intention, we organize ourselves to defend our communities and care for each other.
 

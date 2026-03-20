@@ -5,7 +5,7 @@ layout: "page"
 
 ## Próxima asamblea
 
-14 de marzo. Menlo Park. 325 N Grande Ave.
+11 de abril. First Christian Church. 740 E Speedway Blvd.
 
 Juntos podemos acabar con la crueldad de las leyes de inmigración. Con esta intención, nos organizamos para defender nuestras comunidades y cuidarnos unos a otros.
 
