@@ -5,7 +5,7 @@ layout: "page"
 
 ## Next assembly
 
-April 11. First Christian Church. 740 E Speedway Blvd.
+May 9, 2PM. First Christian Church. 740 E Speedway Blvd.
 
 Together, we can put an end to the cruelty of immigration enforcement. With this intention, we organize ourselves to defend our communities and care for each other.
 
@@ -15,4 +15,4 @@ Anyone who wants a world free of oppression and exploitation is welcome. Bring y
 
 Every Second Saturday from 2pm-4:30pm.
 
-Spanish/English interpretation available
+Spanish/English interpretation available. Lunch and childcare provided.
