@@ -5,7 +5,7 @@ layout: "page"
 
 ## Próxima asamblea
 
-9 de mayo a las 14:00. First Christian Church. 740 E Speedway Blvd.
+13 de junio a las 14:00. First Christian Church. 740 E Speedway Blvd.
 
 Juntos podemos acabar con la crueldad de las leyes de inmigración. Con esta intención, nos organizamos para defender nuestras comunidades y cuidarnos unos a otros.
 
