@@ -5,7 +5,7 @@ layout: "page"
 
 ## Next assembly
 
-June 13, 2PM. First Christian Church. 740 E Speedway Blvd.
+{{< next-assembly locale="en-US" >}} First Christian Church. 740 E Speedway Blvd.
 
 Together, we can put an end to the cruelty of immigration enforcement. With this intention, we organize ourselves to defend our communities and care for each other.
 

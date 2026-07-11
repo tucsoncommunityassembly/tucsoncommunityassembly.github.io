@@ -1,0 +1,31 @@
+<span id="next-assembly-date"></span>
+
+<script>
+  (() => {
+    nextAssemblyDate = () => {
+      const assemblyDate = (year, month) => {
+        const firstDay = new Date(year, month, 1);
+        const secondSaturday = 1 + (6 - firstDay.getDay()) + 7;
+        return new Date(year, month, secondSaturday, 14);
+      };
+      const now = new Date();
+      let assembly = assemblyDate(now.getFullYear(), now.getMonth());
+      if (assembly < now) {
+        assembly = assemblyDate(now.getFullYear(), now.getMonth()+1);
+      }
+      return assembly;
+    };
+
+    const assembly = nextAssemblyDate();
+    const options = {
+      month: "long",
+      day: "numeric"
+    };
+    {{ if eq (.Get "locale") "es-MX" }}
+    const contents = `${assembly.toLocaleDateString("es-MX", options)} a las 14:00.`;
+    {{ else }}
+    const contents = `${assembly.toLocaleDateString("en-US", options)}, 2PM.`;
+    {{ end }}
+    document.getElementById("next-assembly-date").textContent = contents
+  })();
+</script>
